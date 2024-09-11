@@ -1,0 +1,147 @@
+[WARN] [2024-09-06 14:49:48] PHP CLI is disabled manually, plugin will omit all PHP CLI steps.
+[WARN] [2024-09-06 14:49:48] PHP CLI file cannot be executed due to unknown reason.
+[STEP] [2024-09-06 14:49:48] Initializing backup...
+[INFO] [2024-09-06 14:49:48] Backup & Migration version: 1.4.6
+[INFO] [2024-09-06 14:49:48] Site which will be backed up: https://theglasshouse.cl
+[INFO] [2024-09-06 14:49:48] PHP Version: 8.2.17
+[INFO] [2024-09-06 14:49:48] WP Version: 6.6.1
+[INFO] [2024-09-06 14:49:48] MySQL Version: 10.11.7
+[INFO] [2024-09-06 14:49:48] MySQL Max Length: 16777216
+[INFO] [2024-09-06 14:49:48] Web server: LiteSpeed
+[INFO] [2024-09-06 14:49:48] Max execution time (in seconds): 30
+[INFO] [2024-09-06 14:49:48] Memory limit (server): 128M
+[INFO] [2024-09-06 14:49:48] Memory limit (wp-config): 40M
+[INFO] [2024-09-06 14:49:48] Memory limit (wp-config admin): 256M
+[INFO] [2024-09-06 14:49:48] Max rows per query (this site): 2000
+[INFO] [2024-09-06 14:49:48] Checking if backup dir is writable...
+[INFO] [2024-09-06 14:49:48] Initializing custom error handler
+[SUCCESS] [2024-09-06 14:49:48] Yup it is writable...
+[STEP] [2024-09-06 14:49:48] Scanning files...
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/admin/dashboard/static/bundle/main.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/623.dc144db541bbc1376e09.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/events.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/188.d08fca2a6119d5ab1c6f.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/68.88f643c8b4c9266a5fc7.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/421.8731543025e84f834ebe.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/142.35a89b8a21c3144c67c3.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/806.a5fd92a7495a9c9c791d.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/735.8f08a3d5ecc141604290.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/options.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/466.4a5b6dd53c51340fc87b.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/815.cc102d9136543dd50d70.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/customizer-controls.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/140.db33f963fd93dcb7d8b3.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/316.15a1d45e8c38b53321d5.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/629.370ffe8380bb23e4593b.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/321.52e4ea3fa624a2c496ca.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/308.3b4fec03f4400279d96f.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/274.717c716a87ab50d3b9d0.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/editor.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/main.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/418.66ea70734eb9e0d6ad3f.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/844.76ff4bdad9728c9e2e60.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/761.ee61052e9deb5e10792a.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/87.5261f73b19f854b5da13.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/95.9b58e560812076065644.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/574.3dfefc4d7c283ef02e53.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/167.4258e991eadd494712d6.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/sync.min.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/36.d171c773eabf61d571ec.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/559.47054edb739c3c6a4a49.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/897.c1365759444a96d0539f.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/150.d687c12e0d543146c588.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/760.948eafe55e2ef118455b.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/921.ea5565c86a4be1f7d88d.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to exclude rules): /home/theglasshouse.cl/public_html/wp-content/themes/blocksy/static/bundle/798.1e4d754552ff1844d46a.js.gz
+[WARN] [2024-09-06 14:49:48] Removing file from backup (due to path rules): /home/theglasshouse.cl/public_html/wp-content/backup-migration-config.php
+[INFO] [2024-09-06 14:49:48] Total size of excluded files: 546945 bytes
+[VERBOSE] [2024-09-06 14:49:48] Total size of excluded files (bytes): 546945
+[STEP] [2024-09-06 14:49:48] Checking free space, reserving...
+[INFO] [2024-09-06 14:49:48] Requires at least 37649953 bytes. [35.91 MB]
+[INFO] [2024-09-06 14:49:48] Disk free space function is not disabled - using it...
+[INFO] [2024-09-06 14:49:48] Checking this path/partition: /home/theglasshouse.cl/public_html/wp-content/backup-migration-hclH2qRID1/backups
+[SUCCESS] [2024-09-06 14:49:48] There is 21,401.88 MB free. [20.9 GB]
+[SUCCESS] [2024-09-06 14:49:48] Great! We have enough space.
+[SUCCESS] [2024-09-06 14:49:48] Confirmed, there is more than enough space, checked: 37649953 bytes
+[INFO] [2024-09-06 14:49:48] Scanning done - found 2019 files...
+[SUCCESS] [2024-09-06 14:49:48] Backup initialized...
+[STEP] [2024-09-06 14:49:48] Initializing archiving system...
+[SUCCESS] [2024-09-06 14:49:48] Archive system initialized...
+[STEP] [2024-09-06 14:49:48] Preparing map of files...
+[SUCCESS] [2024-09-06 14:49:48] Files prepared.
+[INFO] [2024-09-06 14:49:48] Starting compression process...
+[STEP] [2024-09-06 14:49:48] Smart memory calculation...
+[INFO] [2024-09-06 14:49:48] There is 256 MBs of memory to use
+[INFO] [2024-09-06 14:49:48] WordPress memory limit: 256 MBs
+[SUCCESS] [2024-09-06 14:49:48] Setting the safe limit to 57 MB
+[INFO] [2024-09-06 14:49:48] ZipArchive is available this process should use ZipArchive
+[INFO] [2024-09-06 14:49:48] Legacy setting: Using default modules depending on user server
+[STEP] [2024-09-06 14:49:48] Making database backup (using v3 engine, requires at least v1.2.2 to restore)
+[INFO] [2024-09-06 14:49:48] Iterating database...
+[INFO] [2024-09-06 14:49:48] Memory usage after initialization: 3.49 MB
+[VERBOSE] [2024-09-06 14:49:48] Exporting database via zip.php
+[INFO] [2024-09-06 14:49:48] Scan found 14 tables (484 rows), estimated total size: 2.48 MB.
+[INFO] [2024-09-06 14:49:48] Memory usage after getting table names: 3.49 MB 
+[INFO] [2024-09-06 14:49:48] Getting table recipes...
+[INFO] [2024-09-06 14:49:48] Table recipes have been exported.
+[INFO] [2024-09-06 14:49:48] Memory usage after loading recipes: 3.50 MB 
+[INFO] [2024-09-06 14:49:48] Saving recipes...
+[INFO] [2024-09-06 14:49:48] Recipes saved.
+[INFO] [2024-09-06 14:49:48] Memory usage after recipe off-load: 3.49 MB
+[INFO] [2024-09-06 14:49:48] Exporting table data...
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_commentmeta (1/14, 0.05 MB)
+[INFO] [2024-09-06 14:49:48] Table wp_commentmeta is empty, saving only recipe.
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_comments (2/14, 0.09 MB)
+[SUCCESS] [2024-09-06 14:49:48] Table export for: wp_comments finished (0.00030s)
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_links (3/14, 0.03 MB)
+[INFO] [2024-09-06 14:49:48] Table wp_links is empty, saving only recipe.
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_litespeed_url (4/14, 0.05 MB)
+[INFO] [2024-09-06 14:49:48] Table wp_litespeed_url is empty, saving only recipe.
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_litespeed_url_file (5/14, 0.09 MB)
+[INFO] [2024-09-06 14:49:48] Table wp_litespeed_url_file is empty, saving only recipe.
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_options (6/14, 1.55 MB)
+[SUCCESS] [2024-09-06 14:49:48] Table export for: wp_options finished (0.01502s)
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_postmeta (7/14, 0.05 MB)
+[SUCCESS] [2024-09-06 14:49:48] Table export for: wp_postmeta finished (0.00066s)
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_posts (8/14, 0.28 MB)
+[SUCCESS] [2024-09-06 14:49:48] Table export for: wp_posts finished (0.00202s)
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_term_relationships (9/14, 0.03 MB)
+[SUCCESS] [2024-09-06 14:49:48] Table export for: wp_term_relationships finished (0.00025s)
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_term_taxonomy (10/14, 0.05 MB)
+[SUCCESS] [2024-09-06 14:49:48] Table export for: wp_term_taxonomy finished (0.00021s)
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_termmeta (11/14, 0.05 MB)
+[INFO] [2024-09-06 14:49:48] Table wp_termmeta is empty, saving only recipe.
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_terms (12/14, 0.05 MB)
+[SUCCESS] [2024-09-06 14:49:48] Table export for: wp_terms finished (0.00023s)
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_usermeta (13/14, 0.05 MB)
+[SUCCESS] [2024-09-06 14:49:48] Table export for: wp_usermeta finished (0.00038s)
+[STEP] [2024-09-06 14:49:48] Getting data of table: wp_users (14/14, 0.06 MB)
+[SUCCESS] [2024-09-06 14:49:48] Table export for: wp_users finished (0.00021s)
+[INFO] [2024-09-06 14:49:48] Table data exported.
+[INFO] [2024-09-06 14:49:48] Memory usage after data export: 3.48 MB
+[INFO] [2024-09-06 14:49:48] Entire process took: 0.0256 s
+[SUCCESS] [2024-09-06 14:49:48] Database backup finished
+[STEP] [2024-09-06 14:49:48] Making archive
+[INFO] [2024-09-06 14:49:48] Compressing...
+[WARN] [2024-09-06 14:49:48] Backup will run as single-request, may be unstable...
+[INFO] [2024-09-06 14:49:48] Using ZipArchive extension for this backup process.
+[STEP] [2024-09-06 14:49:48] Adding database SQL file(s) to the backup file.
+[VERBOSE] [2024-09-06 14:49:48] Database files in total found: 14
+[SUCCESS] [2024-09-06 14:49:48] Database added to the backup successfully.
+[STEP] [2024-09-06 14:49:48] Performing site files backup...
+[INFO] [2024-09-06 14:49:48] Chunks contain 250 files.
+[INFO] [2024-09-06 14:49:49] Milestone: 500/2019
+[INFO] [2024-09-06 14:49:49] Milestone: 1000/2019
+[INFO] [2024-09-06 14:49:49] Milestone: 1500/2019
+[INFO] [2024-09-06 14:49:49] Milestone: 2000/2019
+[INFO] [2024-09-06 14:49:49] Milestone: 2019/2019
+[SUCCESS] [2024-09-06 14:49:49] Compressed 2019 files
+[INFO] [2024-09-06 14:49:49] Archiving of 2019 files took: 1.41s
+[STEP] [2024-09-06 14:49:49] Finalizing backup
+[INFO] [2024-09-06 14:49:49] Generating manifest file and saving current live-log...
+[INFO] [2024-09-06 14:49:50] Adding manifest...
+[SUCCESS] [2024-09-06 14:49:51] Manifest file and logs added to the backup. Temporary files removed.
+[STEP] [2024-09-06 14:49:51] Closing files and archives
+[SUCCESS] [2024-09-06 14:49:51] Cleanup finished, backup complete.
+[SUCCESS] [2024-09-06 14:49:51] New backup created and its name is: BM_2024-09-06_14_49_48_khBqTmusndx89rI4.zip
+[END-CODE] [2024-09-06 14:49:51] #001
